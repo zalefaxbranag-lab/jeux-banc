@@ -4,6 +4,9 @@
       "useUserToken": false
     }
   },
+  "leaderboards": [
+    { "id": "total_score", "isMain": true }
+  ],
   "advertisement": {
     "minimumDelayBetweenInterstitial": 60,
     "useBuiltInErrorPopup": false,
