@@ -1,0 +1,23 @@
+{
+  "platforms": {
+    "crazy_games": {
+      "useUserToken": false
+    }
+  },
+  "advertisement": {
+    "minimumDelayBetweenInterstitial": 60,
+    "useBuiltInErrorPopup": false,
+    "useAdvertisementErrorPopup": false,
+    "interstitial": {
+      "placements": [
+        { "id": "level_completed" }
+      ]
+    },
+    "rewarded": {
+      "placements": [
+        { "id": "extra_slot" },
+        { "id": "double_score" }
+      ]
+    }
+  }
+}
